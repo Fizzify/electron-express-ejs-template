@@ -5,10 +5,10 @@ A template or boilerplate for ElectronJS, ExpressJS, and EJS or what I like to c
 
 ![Preview](https://user-images.githubusercontent.com/79361847/167061859-0b912e2c-9485-4992-b1ce-70bb86b0dd12.png)
 
-![image](https://user-images.githubusercontent.com/79361847/167062011-e4c420ec-da1f-4111-bbfd-c6b19f2b1d1e.png)
+![image](https://user-images.githubusercontent.com/79361847/167062397-7397c3e8-684c-474a-931f-c0ab6562266a.png)
 
 
-##### Get Started
+#### Get Started
 
 Setup
 
