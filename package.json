@@ -1,7 +1,7 @@
 {
-  "name": "mcu-countdown",
+  "name": "electron-express-ejs-template",
   "version": "1.0.0",
-  "description": "An app to see the countdown of the next MCU movie.",
+  "description": "A template or boilerplate for ElectronJS, ExpressJS, and EJS. ",
   "main": "index.js",
   "scripts": {
     "start": "electron ."
