@@ -8,7 +8,7 @@ A template or boilerplate for ElectronJS, ExpressJS, and EJS or what I like to c
 ![image](https://user-images.githubusercontent.com/79361847/167062397-7397c3e8-684c-474a-931f-c0ab6562266a.png)
 
 
-#### Get Started
+# Get Started
 
 Setup
 
